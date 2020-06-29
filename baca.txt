@@ -1,0 +1,7 @@
+silahkan buat database terlebih dahulu dengan nama
+
+nama database : crud-v1.3
+
+lalu import data.sql :)
+
+- candra dwi cahyo | 2020

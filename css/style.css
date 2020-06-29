@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.data-page {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 91vh;
+    flex-wrap: wrap;
+    transition: 0.5s;
+    overflow: hidden;
+}
+
+.card-page {
+    position: relative;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    min-height: 91vh;
+    flex-wrap: wrap;
+    transition: 0.5s;
+    overflow: hidden;
+    opacity: 0;
+}
